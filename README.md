@@ -28,7 +28,7 @@ The results are presented in two forms:
     ```bash
     streamlit run app.py
     ```
-2. Streamlit will automatically open the applicaiton at `http://localhost:3000`.
+2. Streamlit will automatically open the applicaiton at `http://localhost:8501`.
 
 ## How It Works
 1. **Input Size**: Enter the size of the input array.
