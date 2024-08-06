@@ -44,7 +44,7 @@ The results are presented in two forms:
 7. **View Results**: Analyze the execution times in the graphical representation.
 
 ## Technologies Used
-- **Frontend**: Steeamlit
+- **Frontend**: Streamlit
 - **Backend**: Python, NumPy
 - **Visualization**: Matplotlib
 
