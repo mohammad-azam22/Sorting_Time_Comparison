@@ -22,6 +22,10 @@ The results are presented in two forms:
     ```bash
     git clone https://github.com/mohammad-azam22/Sorting_Time_Comparison.git
     ```
+2. Install the libraries:
+   ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 1. Start the application:
